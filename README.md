@@ -46,7 +46,7 @@
 
 3. ##### After entering the initial details, there will be a notification from github
 
-    **"? What account do you want to log into?"**
+    **"What account do you want to log into?"**
 
     - Select **GitHub.com** , Enter
     - Select **HTTPS** Enter
@@ -54,4 +54,4 @@
     - Select **Paste an authentication token** , Enter
     - Paste the token that you generated in the first step, Enter
 
-4. ##### Done, just wait, task 4 is completed!!!!
+4. ##### **Done, just wait, task 4 is completed!!!!**
