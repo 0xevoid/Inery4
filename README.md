@@ -14,9 +14,9 @@
 
 2. ##### Create a Github Token
 
-    1. Click [this link](https://github.com/settings/tokens) to generate github token
-    2. Select the **"Generate new token"** button
-    3. Select **generate new token (classic)** and enter the name of the token, **example** "access-inery-token"
+    - Click [this link](https://github.com/settings/tokens) to generate github token
+    - Select the **"Generate new token"** button
+    - Select **generate new token (classic)** and enter the name of the token, **example** "access-inery-token"
     Check the scopes option below
 
        ✓ **repo**
@@ -25,8 +25,8 @@
 
        ✓ **admin:org**
       
-    4. Then press the **Generate Token** button at the bottom
-    5. **Save your tokens carefully**
+    - Then press the **Generate Token** button at the bottom
+    - **Save your tokens carefully**
 
 ## 2. Doing Task 4
 
@@ -44,14 +44,14 @@
 
     Enter the requested details
 
-3. ##### after entering the initial details, there will be a notification from github
+3. ##### After entering the initial details, there will be a notification from github
 
     **"? What account do you want to log into?"**
 
-    1. Select **GitHub.com** , enter
-    2. Select **HTTPS** enter
-    3. Type **Y** when asked, enter
-    4. Select **Paste an authentication token** , enter
-    5. Paste the token that you generated in the first step, enter
+    1. Select **GitHub.com** , Enter
+    2. Select **HTTPS** Enter
+    3. Type **Y** when asked, Enter
+    4. Select **Paste an authentication token** , Enter
+    5. Paste the token that you generated in the first step, Enter
 
 4. ##### Done, just wait, task 4 is completed!!!!
