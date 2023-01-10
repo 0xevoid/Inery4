@@ -48,10 +48,10 @@
 
     **"? What account do you want to log into?"**
 
-    1. Select **GitHub.com** , Enter
-    2. Select **HTTPS** Enter
-    3. Type **Y** when asked, Enter
-    4. Select **Paste an authentication token** , Enter
-    5. Paste the token that you generated in the first step, Enter
+    - Select **GitHub.com** , Enter
+    - Select **HTTPS** Enter
+    - Type **Y** when asked, Enter
+    - Select **Paste an authentication token** , Enter
+    - Paste the token that you generated in the first step, Enter
 
 4. ##### Done, just wait, task 4 is completed!!!!
