@@ -16,7 +16,7 @@
 
     - Click [this link](https://github.com/settings/tokens) to generate github token
     - Select the **"Generate new token"** button
-    - Select **generate new token (classic)** and enter the name of the token, **example** "access-inery-token"
+    - Select **generate new token (classic)** and enter the name of the token, **example** "INERY 4"
     Check the scopes option below
 
        ✓ **repo**
